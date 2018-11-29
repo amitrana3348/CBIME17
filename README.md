@@ -3,7 +3,14 @@ CB Ingole project
 
 For Speech Recognition Install as follows
 
-pip install SpeechRecognition
+Firstly install pyAudio
+
+sudo apt-get install python-pyaudio
+
+
+now install Speech Recognition Library
+
+sudo pip install SpeechRecognition
 
 Example is here
 
